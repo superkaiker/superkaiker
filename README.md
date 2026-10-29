@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hola, soy Varon 👋
 
-<!--
-**superkaiker/superkaiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy formándome en desarrollo de software y construyendo una base práctica en programación, herramientas de desarrollo y trabajo colaborativo.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Actualmente estoy aprendiendo programación y desarrollo de software.
+- Me interesa crear proyectos útiles y accesibles.
+- Estoy aprendiendo a trabajar con Git y GitHub.
+- Me gusta aprender mediante proyectos prácticos.
+
+## Tecnologías y herramientas
+
+- Python
+- Git
+- GitHub
+- Git Bash
+- Visual Studio Code
+- Jupyter Notebook
+- Docker
+- Postman
+- Markdown
+
+## Proyectos
+
+### EL FARO
+
+Proyecto en desarrollo orientado a crear una propuesta útil, accesible y con impacto real.
+
+## Objetivos actuales
+
+- Mejorar mis fundamentos de programación.
+- Aprender a trabajar con repositorios y ramas.
+- Crear y documentar proyectos propios.
+- Practicar el desarrollo de aplicaciones y APIs.
+- Construir progresivamente mi portfolio.
+
+## Contacto
+
+- GitHub: [@superkaiker](https://github.com/superkaiker)
